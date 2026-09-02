@@ -1,8 +1,8 @@
 cask "candela" do
   version "1.0.0"
-  sha256 "c1b3d85fcad33e7993f27654d6fba1013ace58c4e5a7ce35247ad360571078f0"
+  sha256 "5cee2481e6b9f4f77d7f308218d2c2a962fa5539a669be45805f9b7183a14cb2"
 
-  url "https://github.com/Rydersel/Candela/releases/download/v#{version}/Candela-#{version}.zip"
+  url "https://github.com/Rydersel/Candela/releases/download/v#{version}/Candela-#{version}.dmg"
   name "Candela"
   desc "Looks after your displays: panel health, burn-in protection, and the everyday controls"
   homepage "https://candela.fyi/"
