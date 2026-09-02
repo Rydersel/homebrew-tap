@@ -1,6 +1,6 @@
 cask "candela" do
   version "1.0.0"
-  sha256 "5cee2481e6b9f4f77d7f308218d2c2a962fa5539a669be45805f9b7183a14cb2"
+  sha256 "3b940bc1687e8c82c4f5bffe9eec15a8242797e0929870e9b32a8b37f9ccf01b"
 
   url "https://github.com/Rydersel/Candela/releases/download/v#{version}/Candela-#{version}.dmg"
   name "Candela"
