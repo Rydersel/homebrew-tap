@@ -4,7 +4,7 @@ cask "candela" do
 
   url "https://github.com/Rydersel/Candela/releases/download/v#{version}/Candela-#{version}.dmg"
   name "Candela"
-  desc "Looks after your displays: panel health, burn-in protection, and the everyday controls"
+  desc "Looks after your displays: panel health, burn-in protection, everyday controls"
   homepage "https://candela.fyi/"
 
   livecheck do
